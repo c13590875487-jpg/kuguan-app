@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "库存管家",
+  "short_name": "库存管家",
+  "description": "手机扫码登记出入库，一物一码追踪库存。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#1b684b",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
